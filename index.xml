@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://192.168.1.39:8088/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>测试博文</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 测试博文</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jan 2023 18:10:09 +0800</lastBuildDate><atom:link href="http://192.168.1.39:8088/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans</language>
+    <lastBuildDate>Tue, 17 Jan 2023 18:10:09 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://192.168.1.39:8088/post/blog/</link>
+      <link>http://example.org/post/blog/</link>
       <pubDate>Tue, 17 Jan 2023 18:10:09 +0800</pubDate>
       
-      <guid>http://192.168.1.39:8088/post/blog/</guid>
+      <guid>http://example.org/post/blog/</guid>
       <description></description>
     </item>
     
